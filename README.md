@@ -1,6 +1,7 @@
 # Patefon Music Player
 A full-stack music player project insipred by Spotify. You can create playlists, listen to music, listen to music with friends, chat with friends etc.
 
+This is the final project of Coding-Academy intensive bootcamp. 
 Link to our website: https://patefon.herokuapp.com/#/
 
 ## How to use ?
